@@ -86,6 +86,7 @@
 .content__search{
     margin-top: 10px;
     width: 100%;
+    max-width: 736px;
     padding: 7px 10px 6px 20px;
     font-size: 18px;
     color: rgba(0, 0, 0, 0.87);
